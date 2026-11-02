@@ -25,13 +25,13 @@
 
 ## GitHub Pages 설정
 
-저장소 **Settings → Pages**에서 Source를 **Deploy from a branch**로 지정하고, **main / (root)**를 선택한 뒤 저장합니다.
-배포 완료 후 GitHub가 표시한 공개 주소에서 접속할 수 있습니다.
+저장소 Settings → Pages에서 Source를 `Deploy from a branch`, 배포 위치를 `main / (root)`로 설정했습니다.
+공개 URL 접속과 HTTP 200 응답을 확인했습니다.
 
 ## 과제 제출 정보
 
 - GitHub 저장소: https://github.com/eeeeuns769-hue/mylink-folder
 - MyLink 전용 폴더: https://github.com/eeeeuns769-hue/mylink-folder/tree/main/mylink
-- 배포 예정 주소: https://eeeeuns769-hue.github.io/mylink-folder/mylink/
+- 마이링크(MyLink) URL: https://eeeeuns769-hue.github.io/mylink-folder/mylink/
 
-배포 예정 주소는 GitHub Pages 설정과 배포가 완료된 뒤 사용할 수 있습니다.
+공개 페이지는 별도 로그인 없이 접속할 수 있습니다.
